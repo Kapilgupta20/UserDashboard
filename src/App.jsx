@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/header.jsx';
+import { Header } from './components/Header.jsx';
 import { SearchBar } from './components/SearchBar.jsx';
-import { UserTable } from './components/usertable.jsx';
+import { UserTable } from './components/UserTable.jsx';
 import { UserModal } from './components/UserModal.jsx';
 import { getUsers, addUser, updateUser, deleteUser } from "./utils/api.js";
 
