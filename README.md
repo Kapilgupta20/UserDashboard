@@ -24,21 +24,24 @@ A **User Management Dashboard** built with **React.js**, **Vite.js** and **Tailw
 To set up the project locally, follow these steps:
 
 ### **1. Clone the Repository**:
-    ```
-    git clone https://github.com/Kapilgupta20/UserDashboard.git
-    ```
+```bash
+git clone https://github.com/Kapilgupta20/UserDashboard.git
+```
+
 ### **2️. Navigate to the project directory**:
-    ```
-    cd UserDashboard
-    ```
+```bash
+cd UserDashboard
+```
+
 ### **3️. Install dependencies**:
-    ```
-    npm install
-    ```
+```bash
+npm install
+```
+
 ### **4. Start the development server**:
-    ```
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
 The project will be available at http://localhost:5173/ (Vite default).
 
@@ -63,4 +66,4 @@ The project will be available at http://localhost:5173/ (Vite default).
 - **Dark Mode Support**: Add a theme switcher to support dark mode for better accessibility and user experience.
 - **Enhanced UI/UX**: Implement more sophisticated animations, transitions, and modal windows to improve user interaction.
 
-### Here's the MOCK API link: `https://my-json-server.typicode.com/Kapilgupta20/jsonserver/users`
+**Here's the MOCK API link:** `https://my-json-server.typicode.com/Kapilgupta20/jsonserver/users`
